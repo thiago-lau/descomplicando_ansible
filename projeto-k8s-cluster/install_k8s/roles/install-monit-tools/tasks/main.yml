@@ -1,0 +1,4 @@
+---
+# tasks file for install-monit-tools
+
+- include: install-monit-tools.yml
